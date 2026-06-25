@@ -1,5 +1,6 @@
 # Codewars Leaderboard project
 [Live Demo](codewars-abdoon.netlify.app)
+
 Codewars provides [an API](https://dev.codewars.com/) that can be used to look up an individual user's rank and score.
 
 We will use this to build a leaderboard, similar to [the one on the Codewars website](https://www.codewars.com/users/leaderboard/ranks).
